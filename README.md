@@ -14,6 +14,10 @@ Include the steps involved in the SARSA Learning algorithm
 Include the SARSA Learning function
 
 ## OUTPUT:
+ ### Optimal state-value and action-value Function
+
+ ![image](https://github.com/ssp1707/sarsa-learning/assets/75234965/c3d97ac2-835a-450a-b2df-d4a3274d1898)
+
  ### First Visit Monte Control action-value Function
 
  ![image](https://github.com/ssp1707/sarsa-learning/assets/75234965/11c893aa-8695-48d9-aef4-c932430112d4)
