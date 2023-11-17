@@ -1,4 +1,8 @@
-# SARSA Learning Algorithm
+### Ex No:
+### Date:
+
+
+# <p align="center"> SARSA Learning Algorithm <p>
 
 
 ## AIM
@@ -24,6 +28,10 @@ Update the Q-value for the current state-action pair (S, A) using the SARSA upda
 Update State and Action and repeat the step 3 untill the episodes ends.
 
 ## SARSA LEARNING FUNCTION
+```
+Developed By: S. Sanjna Priya
+Reg No: 212220230043
+```
 ```python3
 def sarsa(env,
           gamma=1.0,
